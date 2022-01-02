@@ -425,4 +425,32 @@ body {
   font-size: 22px;
   margin: 20px 0;
 }
+
+.single-portfolio {
+  height: 250px;
+  background-size: cover;
+  background-position: center;
+  float: left;
+  margin-right: 30px;
+  width: 370px;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.single-portfolio:last-child {
+  margin-right: 0;
+}
+
+.single-portfolio h4 {
+  background-color: #333;
+  color: #fff;
+  left: 0;
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  font-size: 22px;
+  text-transform: capitalize;
+}
 /*# sourceMappingURL=style.css.map */
