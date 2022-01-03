@@ -1,0 +1,68 @@
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .header-area{
+        padding: 15px 10px;
+        
+        .manu{
+            float: left;
+            width: 640px;
+            margin-left: 30px;
+        }
+    
+    }
+
+    .single-about{
+        width: 280px;
+        margin-left: 20px;
+    
+        h4{
+            text-transform: capitalize;
+            font-size: 26px;
+            font-weight: 500;
+        }
+        p{
+            margin: 20px 0;
+        }
+        
+    }
+
+    // section title code
+.section-title{
+    width: 80%;  
+}
+
+
+.single-service{
+    width: 280px;
+    margin-left: 20px; 
+}
+
+.single-portfolio{
+    width: 280px;
+    margin-left: 20px; 
+}
+
+.single-blog{
+    width: 280px;
+    margin-left: 20px; 
+}
+
+.single-address{
+    float: left;
+    width: 300px;
+    
+}
+
+.contact-form{
+    width: 400px;
+margin-left: 30px;
+margin-right: 0;
+    
+}
+
+
+.contact-map {
+    float: left;
+    width: 450px;
+    margin-left: 30px;
+}   
+}
